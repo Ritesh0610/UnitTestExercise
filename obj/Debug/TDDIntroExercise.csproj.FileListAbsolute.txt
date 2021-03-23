@@ -1,0 +1,14 @@
+D:\.NET Training Daily work\day 45\TDDIntroExercise\TDDIntroExercise\obj\Debug\TDDIntroExercise.csprojAssemblyReference.cache
+D:\.NET Training Daily work\day 45\TDDIntroExercise\TDDIntroExercise\obj\Debug\TDDIntroExercise.csproj.CoreCompileInputs.cache
+D:\.NET Training Daily work\day 45\TDDIntroExercise\TDDIntroExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\.NET Training Daily work\day 45\TDDIntroExercise\TDDIntroExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\.NET Training Daily work\day 45\TDDIntroExercise\TDDIntroExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\.NET Training Daily work\day 45\TDDIntroExercise\TDDIntroExercise\bin\Debug\TDDIntroExercise.dll
+D:\.NET Training Daily work\day 45\TDDIntroExercise\TDDIntroExercise\bin\Debug\TDDIntroExercise.pdb
+D:\.NET Training Daily work\day 45\TDDIntroExercise\TDDIntroExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\.NET Training Daily work\day 45\TDDIntroExercise\TDDIntroExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\.NET Training Daily work\day 45\TDDIntroExercise\TDDIntroExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\.NET Training Daily work\day 45\TDDIntroExercise\TDDIntroExercise\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\.NET Training Daily work\day 45\TDDIntroExercise\TDDIntroExercise\obj\Debug\TDDIntroExercise.csproj.CopyComplete
+D:\.NET Training Daily work\day 45\TDDIntroExercise\TDDIntroExercise\obj\Debug\TDDIntroExercise.dll
+D:\.NET Training Daily work\day 45\TDDIntroExercise\TDDIntroExercise\obj\Debug\TDDIntroExercise.pdb
